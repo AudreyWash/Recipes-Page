@@ -29,6 +29,7 @@ a:hover {
     border-radius: 8px;
     margin: 50px auto;
     padding: 50px 100px 100px 100px;
+    width: 50%;
     /*background-image: url();*/
     background-position: center;
     background-size: cover;
