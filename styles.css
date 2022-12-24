@@ -63,3 +63,15 @@ a:hover {
     margin: 0;
     text-align: center;
 }
+
+.grilledpork-img {
+    background-image: url("../images/grilledpork.jpg");
+}
+
+.tonkatsupork-img {
+    background-image: url("../images/tonkatsupork.jpg");
+}
+
+.tatertots-img {
+    background-image: url("../images/tatertot.jpg");
+}
