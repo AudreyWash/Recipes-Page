@@ -1,6 +1,6 @@
 ## Recipe Page ⭐️
 I created a recipe page to showcase my skills in basic HTML & CSS.    
-https://audreywash.github.io/Recipes-Website/ 
+https://audreywash.github.io/Recipes-Page/
 
 ## Thoughts 💭
 This was my very first project with the updated Odin Project curriculum. I learned how to fill out the HTML boilerplate, create directory and files, navigate through the terminal, input headers, paragraphs, images, and links. Alongside, I was able to create ordered and unordered lists for my recipes. Most importantly, I was able to organize "beginner friendly" clean code so it is readable and understandable to any viewer. 
