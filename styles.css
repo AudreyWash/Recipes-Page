@@ -75,3 +75,31 @@ a:hover {
 .tatertots-img {
     background-image: url("../images/tatertot.jpg");
 }
+
+.recipe-h1 {
+    padding: 50px;
+    margin: 0;
+    color: #f8eee7;
+}
+
+.recipe-card {
+    background-color: rgb(0, 0, 0, 0.65);
+}
+
+.description {
+    display: block;
+}
+
+.directions {
+    width: 50%;
+    margin: 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+ul, 
+ol {
+    text-align: left;
+}
