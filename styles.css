@@ -4,14 +4,14 @@
 
 html,
 body {
-    background-color: #f8eee7;
+    background-color: #f3d5bf;
     font-family: 'Josefin Sans', sans-serif;
     margin: 0;
 }
 
 h1 {
     font-family: 'Berkshire Swash' , cursive;
-    font-size: 3em;
+    font-size: 4em;
 }
 
 a {
@@ -25,12 +25,12 @@ a:hover {
 
 .main-header {
     text-align: center;
-    background-color: #EFB4A6;
+    background-color: #daa395;
     border-radius: 8px;
     margin: 50px auto;
     padding: 50px 100px 100px 100px;
     width: 50%;
-    /*background-image: url();*/
+    background-image: url('images/frontcover.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -38,7 +38,7 @@ a:hover {
 .main-h1,
 .main-p {
     text-shadow: 2px 2px rgb(0, 0, 0, 1);
-    color: #89B9BA;
+    color: #38c1c4; /*#89B9BA*/
 }
 
 .main-section {
