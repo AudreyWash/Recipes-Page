@@ -22,3 +22,20 @@ a {
 a:hover {
     color: #89B9BA;
 }
+
+.main-header {
+    text-align: center;
+    background-color: #EFB4A6;
+    border-radius: 8px;
+    margin: 50px auto;
+    padding: 50px 100px 100px 100px;
+    /*background-image: url();*/
+    background-position: center;
+    background-size: cover;
+}
+
+.main-h1,
+.main-p {
+    text-shadow: 2px 2px rgb(0, 0, 0, 1);
+    color: #89B9BA;
+}
